@@ -1,6 +1,7 @@
 ## Self-Driving Car NanoDegree
 
 carnd1-proj1 - FINDING LANE LINES ON THE ROAD </br>
+![](./media/carnd1-proj1.png)
 https://github.com/caudaz/carnd1-proj1
 
 carnd1-proj2 - Build a Traffic Sign Recognition Classifier </br>
