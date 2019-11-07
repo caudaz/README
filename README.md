@@ -1,6 +1,6 @@
 # Self-Driving Car NanoDegree
 
-## carnd1-proj1 - FINDING LANE LINES ON THE ROAD </br>
+## carnd1-proj1 - Finding Lane Lines on the Road </br>
 ![](./media/carnd1-proj1.png) </br>
 https://github.com/caudaz/carnd1-proj1 </br></br>
 
