@@ -53,7 +53,7 @@ https://github.com/caudaz/carnd3-proj2</br></br>
 https://github.com/caudaz/carnd3-proj3</br></br>
 
 ## carnd3-proj4 - Capstone Project </br>
-![](./media/carnd3-proj4.png) </br>
+![](./media/carnd3-proj4b.png) </br>
 https://github.com/CarlaRider-Team/CarlaRider-Udacity</br></br></br></br>
 
 
