@@ -66,7 +66,11 @@ https://github.com/caudaz/robotND1-proj1</br></br>
 ## robotND1-proj2 - Robotic arm - Pick & Place </br>
 ![](./media/robotND1-proj2.png) </br>
 https://github.com/caudaz/robotND1-proj2 </br>
-https://github.com/caudaz/RoboND-Kinematics-Project</br></br>
+https://github.com/caudaz/RoboND-Kinematics-Project
+```diff
+- Ubuntu16 ROS1-Kinetic: model comes up but with communication error
+```
+</br></br>
 
 ## robotND1-proj3 - 3D Perception </br>
 ![](./media/robotND1-proj3.png) </br>
