@@ -99,7 +99,12 @@ https://github.com/caudaz/robotND2-proj1 </br></br>
 
 ## robotND2-proj2 - Where Am I? (Particle Filters) </br>
 ![](./media/robotND2-proj2.png) </br>
-https://github.com/caudaz/robotND2-proj2 </br>
+https://github.com/caudaz/robotND2-proj2 
+```diff
+- NOTE: THIS MODEL ONLY WORKS WITH UBUNTU16.04 AND ROS1-KINETIC
+- NOT WORKING on UBUNTU16 and ROS1-Kinetic yet
+```
+</br>
 https://github.com/caudaz/robotND2-proj2_MCL-Lab </br>
 https://github.com/caudaz/RoboND-MCL-Lab </br></br>
 
