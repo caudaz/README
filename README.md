@@ -79,7 +79,12 @@ https://github.com/caudaz/robotND1-proj3/blob/master/class_code/README.md </br>
 https://github.com/caudaz/robotND1-proj3/blob/master/class_code/L17-Exercise-1/README.md </br>
 https://github.com/caudaz/robotND1-proj3/blob/master/class_code/L17_Exercise-2/README.md </br>
 https://github.com/caudaz/robotND1-proj3/blob/master/class_code/L17_Exercise-3/README.md </br>
-https://github.com/caudaz/RoboND-Perception-Project </br></br>
+https://github.com/caudaz/RoboND-Perception-Project
+```diff
+- NOTE: THIS MODEL ONLY WORKS WITH UBUNTU16.04 AND ROS1-KINETIC
+- ERRORS: need to debug!!!!!!!!!!!!!!!!!!
+```
+</br></br>
 
 ## robotND1-proj4 - Follow Me </br>
 ![](./media/robotND1-proj4.png) </br>
