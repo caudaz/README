@@ -118,6 +118,24 @@ https://github.com/caudaz/robotND2-proj4 </br></br>
 
 ## robotND2-proj5 - ROS Turtlebot gmapping </br>
 ![](./media/robotND2-proj5.png) </br>
-https://github.com/caudaz/robotND2-proj5 </br></br>
+https://github.com/caudaz/robotND2-proj5 </br></br></br></br>
 
+
+# Data Analyst NanoDegree
+
+## dataAnalystND-proj2 - Investigate a Dataset </br>
+![](./media/dataAnalystND-proj2.png) </br>
+https://github.com/caudaz/dataAnalystND_proj2_investigate_a_dataset</br></br>
+
+## dataAnalystND-proj3 - Analyze A/B Test Results </br>
+![](./media/dataAnalystND-proj3.png) </br>
+https://github.com/caudaz/dataAnalystND_proj3__analyze_A_B_test_results</br></br>
+
+## dataAnalystND-proj4 - Wrangle and Analyze Data </br>
+![](./media/dataAnalystND-proj4.png) </br>
+https://github.com/caudaz/dataAnalystND_proj4_wrangle_and_analyze_data</br></br>
+
+## dataAnalystND-proj5 - Communicate Data Findings </br>
+![](./media/dataAnalystND-proj5.png) </br>
+https://github.com/caudaz/dataAnalystND_proj5_communicate_data_findings</br></br>
 
